@@ -6,7 +6,7 @@
    1. Sleeping :sleeping_bed:
    
  2. My Education
-    2. [Holy Innocents' Primary](https://holyinnocentspri.moe.edu.sg/)
-    2. [Dunman High](https://dunmanhigh.moe.edu.sg/)
+    i. [Holy Innocents' Primary](https://holyinnocentspri.moe.edu.sg/)
+    ii. [Dunman High](https://dunmanhigh.moe.edu.sg/)
 
    
